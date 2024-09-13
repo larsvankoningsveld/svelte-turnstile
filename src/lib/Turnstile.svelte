@@ -224,7 +224,7 @@
         <div
             use:turnstileAction
             class:flexible={size == 'flexible'}
-            class={_class} />
+            class={_class}></div>
     {/key}
 {/if}
 
